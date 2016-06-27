@@ -1,4 +1,4 @@
-var spawn = require('child_process').spawn;
+var spawn = require('cross-spawn').spawn;
 var concat = require('concat-stream');
 var xtend = require('xtend');
 
